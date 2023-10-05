@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+.autos {
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.imagen {
+    width: 180px;
+    border-radius: 10px;
+}
+.cajaContent {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
